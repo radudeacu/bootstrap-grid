@@ -1,0 +1,15 @@
+body {
+    font-family: Helvetica;
+}
+
+.btn-dark {
+    background-color: #005eb8;
+    border-color: #005eb8;
+    display: flex;
+    justify-content: center;
+}
+
+.card-text {
+    color: #ef2809;
+    font-weight: 700;
+}
